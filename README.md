@@ -33,9 +33,7 @@ Aplikasi manajemen data mahasiswa berbasis web dengan tampilan admin modern, dib
 
 ## 🖥️ Screenshot
 
-```
 <img width="1847" height="826" alt="image" src="https://github.com/user-attachments/assets/124ecc20-a769-435d-a4ea-954c2958a1d2" />
-```
 
 ---
 
