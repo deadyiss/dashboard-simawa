@@ -33,17 +33,7 @@ Aplikasi manajemen data mahasiswa berbasis web dengan tampilan admin modern, dib
 
 ## 🖥️ Screenshot
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  SiMawa                    🌙  [A]                       │
-│  ─────────────────────────────────────────────────────  │
-│  🏠 Dashboard    │  📊 Total   📈 Baru   ✅ Aktif  🎓 Lulus │
-│  👥 Mahasiswa    │  ─────────────────────────────────── │
-│  🏛️ Program Studi│  Sebaran Status  │  Top Program Studi │
-│  ℹ️  About        │  ─────────────────────────────────── │
-│                  │  Mahasiswa Terbaru                    │
-└─────────────────────────────────────────────────────────┘
-```
+<img width="1847" height="826" alt="image" src="https://github.com/user-attachments/assets/124ecc20-a769-435d-a4ea-954c2958a1d2" />
 
 ---
 
@@ -255,17 +245,3 @@ Pull request sangat disambut! Untuk perubahan besar, harap buka issue terlebih d
 3. Commit perubahan (`git commit -m 'Tambah fitur X'`)
 4. Push ke branch (`git push origin fitur/nama-fitur`)
 5. Buka Pull Request
-
----
-
-## 📝 Lisensi
-
-Proyek ini menggunakan lisensi [MIT](LICENSE).
-
----
-
-<div align="center">
-
-Dibuat dengan ❤️ menggunakan **Laravel 12**
-
-</div>
