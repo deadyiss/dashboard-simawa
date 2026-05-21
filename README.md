@@ -261,11 +261,3 @@ Pull request sangat disambut! Untuk perubahan besar, harap buka issue terlebih d
 ## 📝 Lisensi
 
 Proyek ini menggunakan lisensi [MIT](LICENSE).
-
----
-
-<div align="center">
-
-Dibuat dengan ❤️ menggunakan **Laravel 12**
-
-</div>
