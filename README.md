@@ -5,7 +5,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.5-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 Aplikasi manajemen data mahasiswa berbasis web dengan tampilan admin modern, dibangun menggunakan **Laravel 12** dan desain tema **Denim Blue**.
 
@@ -233,15 +232,3 @@ simawa/
     }
 }
 ```
-
----
-
-## 🤝 Kontribusi
-
-Pull request sangat disambut! Untuk perubahan besar, harap buka issue terlebih dahulu untuk mendiskusikan apa yang ingin diubah.
-
-1. Fork repository ini
-2. Buat branch fitur (`git checkout -b fitur/nama-fitur`)
-3. Commit perubahan (`git commit -m 'Tambah fitur X'`)
-4. Push ke branch (`git push origin fitur/nama-fitur`)
-5. Buka Pull Request
